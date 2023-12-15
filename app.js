@@ -1,1 +1,0 @@
-let kevin = ['nom'];
